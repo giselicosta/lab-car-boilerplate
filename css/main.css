@@ -1,1 +1,30 @@
-/* Los estilos de tu proyecto */
+ nav {background-color:#fff;
+ }
+
+
+.banner {
+  width: 100%;
+  height: 600px;
+  background-position: center bottom;
+  background-size: cover;
+  background-image: url(../assets/images/taxi.jpg);
+  background-repeat: no-repeat;
+}
+.conductor {
+  width: 100%;
+  background-position: center;
+  background-size: cover;
+  background-image: url(../assets/images/conduce.jpg);
+  background-repeat: no-repeat;
+}
+.form-control::placeholder {
+  color: white;
+
+
+}
+/* .container { */
+  /* width: 50%; */
+  /* height: 70px; */
+  /* background-color: yellow; */
+
+}
